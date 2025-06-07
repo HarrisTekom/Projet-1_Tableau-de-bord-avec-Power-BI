@@ -6,6 +6,6 @@ Réalisation d'un tableau de bord dynamique d'un site de e-commerce, grâce à d
 En cliquant sur ce lien, vous pouvez accéder au tableau de bord.
 
 
-Veuillez copier et coller le lien sur un navigateur.: 
+Veuillez copier et coller le lien sur un navigateur: 
 
 En cliquant sur ce lien, vous pouvez accéder à une vidéo de 5 min résumant la réalisation.
